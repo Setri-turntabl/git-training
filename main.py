@@ -4,5 +4,6 @@ def main():
 
 def foo():
 	print('bar')
+	print('foo bar')
 
 main()
